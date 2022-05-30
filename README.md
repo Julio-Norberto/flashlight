@@ -14,3 +14,5 @@ Esse projeto se trata de um app de lanterna feito com React Native. Ele foi feit
 ### Link do APK
 
 https://drive.google.com/file/d/1IvJNRtTATnZyKeJ-jM-6I-aqboYxARWN/view?usp=sharing
+
+Você pode ativar a lanterna tocando na tela do seu celular ou balançando ele para os lados.
