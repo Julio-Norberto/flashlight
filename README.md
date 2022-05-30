@@ -1,6 +1,6 @@
 # Flashlight
 
-Esse projeto se trata de um app de lanterna feito com React Native.
+Esse projeto se trata de um app de lanterna feito com React Native. Ele foi feito durante um bootcamp da Dio.me.
 
 ## Tech Stack
 
